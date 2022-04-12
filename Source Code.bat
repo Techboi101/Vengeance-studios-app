@@ -17,3 +17,4 @@ echo.
 echo Website: vengeancestudios.godaddysites.com
 echo.
 echo Version: 1.0
+pause
